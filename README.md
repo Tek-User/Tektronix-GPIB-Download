@@ -17,3 +17,5 @@ I will soon be uploading a functional project.  I had a very hard time getting t
 Due to this trouble, I decided to go with SD/CF card.  The Arduino platform offers built-in SPI and SD capability with FAT handling.  I have this up and working after just an hour or so of effort.  Over a week of struggling with the CH376 had the USB flash host barely functional with major limitations.
 
 I am now working on integrating the GPIB functions to the project which already has the functioning SD card interface.
+
+Due to the need for MANY signals to the GPIB bus, plus the 4 needed for SPI, it apears that the Arduino Nano has insufficient I/O.  An Arduino Mega will have ample resources for this project, and more.  This allows consideration of a display, and more complicated interface than just one button!
