@@ -18,6 +18,8 @@ https://tinyurl.com/yyhj2fle
 It uses a "mini-shield" to connect to the Arduino Mega double row expansion connector, and provides a 24 pin (2x12) connector to go to a GPIB connector.  The link to the PCB on OSHPARK is :
 https://oshpark.com/shared_projects/mtz1Vv3A
 
-To build the GPIB mini-shield use sixteen 470 ohm 1206 size SMT resistors, a 2x18 straight male header (for the Arduino expansion header), and a 2x12 right angle (or straight) male header for the GPIB connector, and two 1x2 male headers. The 1x2 headers only provide some extra stability for the board.  If you use feed-through stacking headers, you can add more shields on top of this one.
+To build the GPIB mini-shield use sixteen 470 ohm 1206 size SMT resistors, a 2x18 straight male header (for the Arduino expansion header), and a 2x12 right angle (or straight) male header for the GPIB connector, and two 1x2 male headers. The 1x2 headers only provide some extra stability for the board in its attachment to the Arduino Mega.  If you use feed-through stacking headers, you can add more shields on top of this one.
 
 An enclosure is able to be 3D printed.  The enclosure design (STL file type) is included in this project.  There are two separate files, one being the top and one being the bottom of the enclosure.  Some final fine-tuning of the enclosure is likely to be needed to get a perfect fit.  Use a fine file intended for woodworking.  In some places sandpaper will work well too.
+
+Photos are included of the project (the enclosure, and resistor location on the mini-shield PCB are slightly different from the final designs in this project).
