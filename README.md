@@ -1,4 +1,10 @@
 # Tektronix-GPIB-Download
+<a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/IMG_3033.JPG"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/IMG_3033.JPG" width="500px"><br/></a>
+  
+
+  
+  
+  
 Software (and hardware) to allow copying your oscilloscope display directly to a flash drive
 
 This purpose of this project is to create an inexpensive, and simple-to-build device which attaches to Tektronix 2430, 2430A, 2432, and 2440 digital storage oscilloscopes via GPIB interface to allow the user to download the displayed trace(s) to a flash drive without the need for a computer to be attached to the oscilloscope.  No hardware beyond the device and a GPIB cable are required.  The downloaded file on the flash drive is a vector graphics file type (SVG) which can be viewed and printed using readily available free software, even most web browsers.  
