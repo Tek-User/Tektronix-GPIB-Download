@@ -1,7 +1,7 @@
 # Tektronix-GPIB-Download
 <a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/IMG_3033.JPG"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/IMG_3033.JPG" width="500px"><br/></a>
  
- <a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.jpg"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.jpg" width="500px"><br/></a>
+ <a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.SVG"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.SVG" width="500px"><br/></a>
 
 
   
@@ -29,4 +29,4 @@ To build the GPIB mini-shield use sixteen 470 ohm 1206 size SMT resistors, a 2x1
 
 An enclosure is able to be 3D printed.  The enclosure design (STL file type) is included in this project.  There are two separate files, one being the top and one being the bottom of the enclosure.  Some final fine-tuning of the enclosure is likely to be needed to get a perfect fit.  Use a fine file intended for woodworking.  In some places sandpaper will work well too.
 
-Photos are included of the project (the enclosure, and resistor location on the mini-shield PCB are slightly different from the final designs in this project).
+Photos are included of the project (the enclosure, and resistor location on the mini-shield PCB are slightly different from the final designs in this project).  There is also a photo of an SVG file which has been converted to a raster JPG to display here.
