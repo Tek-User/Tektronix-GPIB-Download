@@ -1,7 +1,7 @@
 # Tektronix-GPIB-Download
 <a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/IMG_3033.JPG"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/IMG_3033.JPG" width="500px"><br/></a>
  
- <a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.svg"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.svg" width="500px"><br/></a>
+ <a href="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.jpg"><img src="https://github.com/Tek-User/Tektronix-GPIB-Download/blob/master/TEK999.jpg" width="500px"><br/></a>
 
 
   
